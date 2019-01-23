@@ -1,4 +1,4 @@
-# fact_or_fiction
+# Fact or Fiction
 
 ## Premise <br/>
 Is there an immigration crisis occurring in America? <br/>
