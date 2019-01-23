@@ -40,7 +40,7 @@ plt.ylabel('Total Refugees in Millions', fontsize=18)
 # In[57]:
 
 
-usa = pd.read_excel('./data/usa_refugees.xlsx')
+usa = pd.read_excel('./data/clean_data/refugees-usa.xlsx')
 
 
 # In[58]:
